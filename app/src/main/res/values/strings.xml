@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BalanceWeekly</string>
+    <string name="textButtonStart">Начать</string>
+    <string name="textName">Ваше имя</string>
+    <string name="textWelcome">Добро пожаловать</string>
+    <string name="textHello">Введите ваше имя и мы можем начать работу в увлекательном дневнике.</string>
+    <string name="textHelloReturn">Мы очень рады видеть Вас снова.</string>
+    <string name="hello_username">С возвращением, %1$s!</string>
+</resources>
